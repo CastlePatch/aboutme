@@ -1,0 +1,30 @@
+Things to do for my resume website:
+1 - Page with projects
+2 - Page with work experience
+3 - Page with education
+4 - Page with things I like to do unrelated to work
+5 - Page with everything condensed
+6 - Contact page
+
+
+Ok so what excatbly should aI be doing first. I think that the best plan of action iss to create of the indiviadual pages and then do the resume one later. This will help me better in order to transform the detailed information into something condensed without having to think abot it to much.
+So where do I start. First I think I should be doing the projects page. 
+So it would hav to following structure (?) for the pages:
+ - Projects page
+    - For each project a page for it with the title, description, maybe a picture and link to a repositor where the code is (most likely github)
+ - education
+    - Probably just university information and if I have any additional training one,  like the FDM Academy stuff I can dump it there too.
+ - Work experience
+    - That would be just title I had, how long it lasted, location, responsibilities, thinks I leearned from there.
+ - Things I like to do unrelated to work (hobbies)
+    - Learning the bass, illustration ive done, series I like, music, games, sports and stuff like that, maybe a paragraph or something like that of the thing I enjoy and why. Maybe even a paragraph of things ive learned from there that help me in every day life.
+ - Everything condensed
+    - Everything that I talked about previously in a single page that can be printed in a resume format that looks nice. The order should be a short summary of myself, previous work experience, education, things I like to do. I should also add the recommendation letters if possible.
+ - Contact page
+    - This one should be pretty simple, just a single page with a box for the name of the person, where to contact them back, subject, body and send email. I also should add my email so they can directly send me an email from their account if that is better for them to do so.
+ - Additionally I should link to my LinkedIN and maybe artstation profie since I really like it, I think it would make me seem a little bit more interesting than other candidates.
+ - I may be able to do some games in javascript so they can play online or something like that and have a link to them on the projects page. it would look kind of nice.
+
+First I should do some design work on how I want the website to look like, for each page and for each special think. I dont have to have anything relally specfic but a general idea so I can start working on it.
+
+I should be able to make tetris, it may be a little complicated in javascript but it should also be fun
